@@ -1,6 +1,7 @@
-# CyberSecProj
+# Coarse/Exact Location Services Study
 
-ExactLocationLogger has better documentation, very few differences between the two projects.
-Not going to publish my collected data here, because it very clearly shows where I live.
+This ia a final project for my Cyber Security senior elective.
+In this project, I explore the security options both left to user control and built into Android Location Services.
+The apps in this repository were used to track my movements for a month to show the value of this location data as well as the built-in protections from Android.
 
-All code copied from elsewhere is cited in the report as [7]
+The first app,
